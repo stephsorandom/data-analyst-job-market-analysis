@@ -93,7 +93,7 @@ Wrote 11 SQL queries using:
 
 ![Top 10 Most In-Demand Skills](visuals/Q1_TopSkills.png)
 
-💻 **[View SQL Query](sql/query1_top_skills.sql)**
+💻 **[View SQL Query](sql/Query1.sql)**
 
 ---
 
@@ -110,7 +110,7 @@ Wrote 11 SQL queries using:
 
 ![Experience Level vs Salary](visuals/Q2_ExperienceSalary.png)
 
-💻 **[View SQL Query](sql/query2_experience_salary.sql)**
+💻 **[View SQL Query](sql/Query2.sql)**
 
 ---
 
@@ -126,7 +126,7 @@ Wrote 11 SQL queries using:
 
 ![Top-Paying Locations](visuals/Q3_TopLocations.png)
 
-💻 **[View SQL Query](sql/query3_top_paying_locations.sql)**
+💻 **[View SQL Query](sql/Query3.sql)**
 
 ---
 
@@ -145,7 +145,7 @@ Wrote 11 SQL queries using:
 
 ![Top-Paying Skills](visuals/Q4_TopPayingSkills.png)
 
-💻 **[View SQL Query](sql/query4_top_paying_skills.sql)**
+💻 **[View SQL Query](sql/Query4.sql)**
 
 ---
 
@@ -163,7 +163,7 @@ Wrote 11 SQL queries using:
 
 ![Most Common Skill Combinations](visuals/Q5_SkillCombos.png)
 
-💻 **[View SQL Query](sql/query5_skill_combinations.sql)**
+💻 **[View SQL Query](sql/Query5.sql)**
 
 ---
 
@@ -182,7 +182,7 @@ Wrote 11 SQL queries using:
 
 ![Python vs Non-Python Salary Comparison](visuals/Q6_PythonComparison.png)
 
-💻 **[View SQL Query](sql/query6_python_vs_non_python.sql)**
+💻 **[View SQL Query](sql/Query6.sql)**
 
 ---
 
@@ -200,7 +200,7 @@ Wrote 11 SQL queries using:
 
 ![Skills Most Common in Remote Jobs](visuals/Q7_RemoteSkills.png)
 
-💻 **[View SQL Query](sql/query7_remote_job_skills.sql)**
+💻 **[View SQL Query](sql/Query7.sql)**
 
 ---
 
@@ -222,7 +222,7 @@ Wrote 11 SQL queries using:
 
 ![Entry-Level vs Early-Career Skills](visuals/Q8_EntryVsEarly.png)
 
-💻 **[View SQL Query](sql/query8_entry_vs_early_career.sql)**
+💻 **[View SQL Query](sql/Query8.sql)**
 
 ---
 
@@ -248,7 +248,7 @@ Wrote 11 SQL queries using:
 ![Industries Hiring and Salaries](visuals/Q9_AverageSalaryLocationpng.png)
 ![Industries Hiring and Salaries](visuals/Q9_JobsIndustry.png)
 
-💻 **[View SQL Query](sql/query9_industries_hiring.sql)**
+💻 **[View SQL Query](sql/Query9.sql)**
 
 ---
 
@@ -269,7 +269,7 @@ Wrote 11 SQL queries using:
 
 ![SQL Tool Combination Salary Comparison](visuals/Q10_SQLToolsCombo.png)
 
-💻 **[View SQL Query](sql/query10_sql_tool_combinations.sql)**
+💻 **[View SQL Query](sql/Query10.sql)**
 
 ---
 
@@ -289,7 +289,7 @@ Wrote 11 SQL queries using:
 
 ![Industry Skill Matrix](visuals/Q11_Bonus_Matrix.png)
 
-💻 **[View SQL Query](sql/query11_industry_skill_matrix.sql)**
+💻 **[View SQL Query](sql/Query11.sql)**
 
 ---
 
