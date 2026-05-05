@@ -2,6 +2,11 @@
 
 *A SQL-driven exploration of skills, salaries, and trends in the data analyst job market*
 
+![Language](https://img.shields.io/badge/Language-T--SQL-blue)
+![Tool](https://img.shields.io/badge/Tool-SQL%20Server-red)
+![Visualization](https://img.shields.io/badge/Visualization-Excel-green)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 ---
 
 ## 📋 Project Overview
@@ -119,10 +124,21 @@ Wrote 11 SQL queries using:
 **Business Question:** Which geographic markets offer the highest compensation?
 
 **Key Findings:**
-- **Remote:** $69k average (largest sample with 10+ jobs)
-- Other locations had insufficient sample sizes (< 10 jobs)
+- **Chattanooga, TN:** $92,133 average (highest paying location in dataset)
+- **Phoenix, NY:** $77,500 average
+- **Boston, MA:** $75,986 average
+- **Atlanta, GA:** $73,750 average
+- **Tennessee (statewide):** $70,858 average
+- **Denver, CO:** $68,071 average
+- **New York, NY:** $67,750 average
+- **Knoxville, TN:** $64,933 average (local market reference)
+- **Cincinnati, OH:** $62,760 average (lowest in dataset)
 
-**Insight:** Remote work pays competitively and offers geographic flexibility without sacrificing compensation. This validates targeting remote-first roles during job search.
+**Insight:** Geographic salary differences are significant and not strictly tied to major metropolitan status. 
+Chattanooga, TN leads all locations despite being a smaller market, suggesting strong local demand 
+or specialized roles driving compensation upward. Remote work remains competitive, falling in the 
+mid-to-high $60k range. For local job seekers in Knoxville, TN, the market offers $64,933 on average 
+— solid for entry-level roles, with higher-paying opportunities available remotely or in nearby markets.
 
 ![Top-Paying Locations](visuals/Q3_TopLocations.png)
 
@@ -135,13 +151,20 @@ Wrote 11 SQL queries using:
 **Business Question:** Which technical skills command the highest salaries?
 
 **Key Findings:**
-- **Google Analytics:** $78k average
-- **Python:** $75k average
-- **Jira:** $74k average
-- **SQL:** $72k average
-- **Excel:** $69k average
+- **Python:** $80,725 average (highest paying skill)
+- **SQL:** $75,773 average
+- **R:** $72,094 average
+- **Tableau:** $71,599 average
+- **Power BI:** $70,941 average
+- **Excel:** $69,021 average
+- **Microsoft Office:** $68,711 average
 
-**Insight:** More specialized technical skills (Python, analytics platforms) correlate with higher pay, while ubiquitous tools like Excel and SQL - though essential - command slightly lower premiums due to widespread availability of candidates with these skills.
+**Insight:** Programming and statistical skills command the highest salaries. Python leads all skills 
+with an $80,725 average — an $11,704 premium over Excel-only roles. SQL remains the second 
+highest-paying skill despite being the most common requirement, reinforcing that SQL mastery is 
+both essential AND financially rewarding. Visualization tools (Tableau, Power BI) fall in the 
+$70-72k range, while general productivity tools (Excel, Microsoft Office) sit slightly lower 
+despite being widely required.
 
 ![Top-Paying Skills](visuals/Q4_TopPayingSkills.png)
 
@@ -245,7 +268,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** Healthcare offers the best balance of hiring volume and competitive pay. FinTech pays significantly more but has limited openings. This analysis informed my decision to target healthcare organizations in my job search.
 
-***Note:*** The NULL category represents job postings where industry was not specified in the listing (31 of 100 jobs). Healthcare Systems is the largest identified industry with 14 postings.
+***Note: The NULL category represents job postings where industry was not specified in the listing (31 of 100 jobs). Healthcare Systems is the largest identified industry with 14 postings.***
 
 ![Industries Hiring and Salaries](visuals/Q9_AverageSalaryLocationpng.png)
 ![Industries Hiring and Salaries](visuals/Q9_JobsIndustry.png)
