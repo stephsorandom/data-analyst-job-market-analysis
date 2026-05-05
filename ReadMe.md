@@ -91,7 +91,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** SQL and Excel remain the core analyst toolkit. Python is a differentiator but not always required. BI tools are increasingly expected even at entry-level.
 
-![Top 10 Most In-Demand Skills](visuals/query1_top_skills.png)
+![Top 10 Most In-Demand Skills](visuals/Q1_TopSkills.png)
 
 💻 **[View SQL Query](sql/query1_top_skills.sql)**
 
@@ -108,7 +108,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** The first meaningful salary increase occurs at the 2-year mark, where employers expect greater technical depth and autonomy. Entry-level roles cluster tightly around the mid-60s, with only marginal differentiation between 0-1 and 1-2 year requirements.
 
-![Experience Level vs Salary](visuals/query2_experience_salary.png)
+![Experience Level vs Salary](visuals/Q2_ExperienceSalary.png)
 
 💻 **[View SQL Query](sql/query2_experience_salary.sql)**
 
@@ -124,7 +124,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** Remote work pays competitively and offers geographic flexibility without sacrificing compensation. This validates targeting remote-first roles during job search.
 
-![Top-Paying Locations](visuals/query3_top_paying_locations.png)
+![Top-Paying Locations](visuals/Q3_TopLocations.png)
 
 💻 **[View SQL Query](sql/query3_top_paying_locations.sql)**
 
@@ -143,7 +143,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** More specialized technical skills (Python, analytics platforms) correlate with higher pay, while ubiquitous tools like Excel and SQL - though essential - command slightly lower premiums due to widespread availability of candidates with these skills.
 
-![Top-Paying Skills](visuals/query4_top_paying_skills.png)
+![Top-Paying Skills](visuals/Q4_TopPayingSkills.png)
 
 💻 **[View SQL Query](sql/query4_top_paying_skills.sql)**
 
@@ -161,7 +161,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** SQL sits at the center of nearly every skill combination. Employers expect analysts to combine querying (SQL) with manipulation (Excel) and visualization (Tableau/Power BI). Multi-tool proficiency is the norm, not the exception.
 
-![Most Common Skill Combinations](visuals/query5_skill_combinations.png)
+![Most Common Skill Combinations](visuals/Q5_SkillCombos.png)
 
 💻 **[View SQL Query](sql/query5_skill_combinations.sql)**
 
@@ -180,7 +180,7 @@ Wrote 11 SQL queries using:
 
 **This was a pivotal finding that shifted my learning priorities.**
 
-![Python vs Non-Python Salary Comparison](visuals/query6_python_vs_non_python.png)
+![Python vs Non-Python Salary Comparison](visuals/Q6_PythonComparison.png)
 
 💻 **[View SQL Query](sql/query6_python_vs_non_python.sql)**
 
@@ -198,7 +198,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** Remote roles emphasize self-sufficient analysts who can independently query data, analyze it, and present insights. Python appears in over half of remote jobs, reinforcing its value for location-independent work.
 
-![Skills Most Common in Remote Jobs](visuals/query7_remote_job_skills.png)
+![Skills Most Common in Remote Jobs](visuals/Q7_RemoteSkills.png)
 
 💻 **[View SQL Query](sql/query7_remote_job_skills.sql)**
 
@@ -220,7 +220,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** Entry-level roles emphasize foundational skills (Excel, SQL). As analysts progress to early-career roles (2+ years), employers expect deeper proficiency in visualization tools (Tableau, Power BI) and programming (Python). This defines a clear learning roadmap: master the basics first, then layer in advanced tools.
 
-![Entry-Level vs Early-Career Skills](visuals/query8_entry_vs_early_career.png)
+![Entry-Level vs Early-Career Skills](visuals/Q8_EntryVsEarly.png)
 
 💻 **[View SQL Query](sql/query8_entry_vs_early_career.sql)**
 
@@ -245,7 +245,8 @@ Wrote 11 SQL queries using:
 
 **Insight:** Healthcare offers the best balance of hiring volume and competitive pay. FinTech pays significantly more but has limited openings. This analysis informed my decision to target healthcare organizations in my job search.
 
-![Industries Hiring and Salaries](visuals/query9_industries_hiring.png)
+![Industries Hiring and Salaries](visuals/Q9_AverageSalaryLocationpng.png)
+![Industries Hiring and Salaries](visuals/Q9_JobsIndustry.png)
 
 💻 **[View SQL Query](sql/query9_industries_hiring.sql)**
 
@@ -266,7 +267,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** Adding a BI tool (Tableau or Power BI) to SQL skills increases salary by $3,500-$7,000 compared to SQL + Excel alone. The "Other SQL Combinations" group (likely including Python or R) also commands premium pay. Pure SQL + Excel roles tend to be more operational and lower-paying.
 
-![SQL Tool Combination Salary Comparison](visuals/query10_sql_tool_combinations.png)
+![SQL Tool Combination Salary Comparison](visuals/Q10_SQLToolsCombo.png)
 
 💻 **[View SQL Query](sql/query10_sql_tool_combinations.sql)**
 
@@ -286,7 +287,7 @@ Wrote 11 SQL queries using:
 
 **Insight:** Every industry requires SQL, but tool priorities vary. Healthcare values Excel universally (100%) and Tableau over Power BI. Finance also emphasizes Excel but shows balanced BI tool usage. Technology roles prioritize Python more heavily (55%) compared to other sectors (36-50%). This helps tailor skill development and applications based on target industry.
 
-![Industry Skill Matrix](visuals/query11_industry_skill_matrix.png)
+![Industry Skill Matrix](visuals/Q11_Bonus_Matrix.png)
 
 💻 **[View SQL Query](sql/query11_industry_skill_matrix.sql)**
 
