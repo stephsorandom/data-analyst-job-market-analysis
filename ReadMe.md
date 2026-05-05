@@ -245,6 +245,8 @@ Wrote 11 SQL queries using:
 
 **Insight:** Healthcare offers the best balance of hiring volume and competitive pay. FinTech pays significantly more but has limited openings. This analysis informed my decision to target healthcare organizations in my job search.
 
+***Note:*** The NULL category represents job postings where industry was not specified in the listing (31 of 100 jobs). Healthcare Systems is the largest identified industry with 14 postings.
+
 ![Industries Hiring and Salaries](visuals/Q9_AverageSalaryLocationpng.png)
 ![Industries Hiring and Salaries](visuals/Q9_JobsIndustry.png)
 
