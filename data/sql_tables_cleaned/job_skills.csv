@@ -1,0 +1,493 @@
+﻿job_id,skill
+1,Excel
+1,SQL 
+1,Reporting
+1,Data Modeling
+1,R
+1,Python
+1,Power BI
+1,Agile
+2,Excel
+2,T-SQL
+2,SQL-Server
+2,ETL
+2,Customer Service
+3,Power BI
+3,Tableau
+3,Excel
+3,SQL
+3,Python
+3,R
+3,ETL
+4,Relational Database
+4,Excel
+4,Powerpoint
+4,Word
+4,Visio
+4,Power BI
+4,Tableau
+4,Quickbase
+4,Python
+4,SQL
+4,R
+4,Documentation
+5,Tableau
+5,Power BI
+5,Python
+5,R
+5,SQL
+5,Data Modeling
+6,SQL
+6,Agile
+6,Power BI
+6,Tableau
+6,MS Access
+7,Tableau
+7,Power BI
+7,SQL
+7,Excel
+8,Tableau
+8,Power BI
+8,SQL
+8,Excel
+8,Agile
+9,Documentation
+9,Statistical Analysis
+9,Datasets
+9,Visualizations
+10,SQL
+10,QuickSight
+10,Tableau
+10,Power BI
+10,Redshift
+10,Jira
+10,Confluence
+11,SQL
+11,Power BI
+11,Data Modeling
+11,Reconciliations
+11,Documentation
+12,Tableau
+12,Excel
+12,SQL
+12,ServiceNow
+12,Teradata
+12,Salesforce
+12,Data Validation
+12,Data Visualizaitons
+13,SQL
+13,SSMS
+13,Tableau
+13,Power BI
+13,Alteryx
+13,Excel
+13,Python
+13,Salesforce
+13,MS Access
+13,Power Query
+13,MS VBA
+13,Data Modeling
+13,Statistical Analysis
+14,Epic Slicer Dicer
+14,Caboodle
+14,Clarity
+14,Power BI
+14,Fabric
+14,Tableau
+14,Qlik
+14,Denodo
+14,Data Governance
+15,SQL
+15,Documentation
+16,SQL
+16,Data Visualizaitons
+16,AI
+16,Python
+16,Tableau
+16,Looker
+17,Excel
+17,Microsoft Office
+17,Large Data
+17,Predictive Analytics
+17,Power BI
+17,Tableau
+17,Business Warehouse
+17,SAP
+17,SQL
+18,Reconciliations
+18,Ad-hoc analysis
+18,Reporting
+19,Data Governance
+19,SQL
+19,Python
+19,Relational Database
+19,BigQuery
+19,Data Engineering Support
+20,Database Principles
+20,SQL
+20,Python
+20,Excel
+20,SSMS
+20,Intex
+20,CAS
+21,Excel
+21,SQL
+21,Reporting
+21,Dashboard tools
+22,SQL
+22,Power BI
+22,Tableau
+22,Excel
+22,Reconciliations
+22,Agile
+23,Excel
+23,SQL
+23,SAP
+23,Oracle Financials
+24,Jira
+24,Microsoft Office
+24,Excel
+24,SQL
+25,Microsoft Office
+25,Excel
+25,Reporting
+26,SQL
+26,Project Management
+27,Power BI
+27,Tableau
+27,Data Cleaning
+27,Documentation
+27,Excel
+28,SQL
+28,Spark
+28,Statistical Analysis
+28,Python
+29,SQL
+29,R
+29,Python
+29,Tableau
+29,Excel
+30,SQL
+30,Tableau
+30,QuickSight
+30,Power BI
+30,Data Modeling
+30,Python
+31,Operational Reporting
+31,Data Visualizaitons
+31,SQL
+31,Excel
+31,MS Access
+32,Microsoft Office
+32,SQL
+32,Python
+32,Power BI
+33,SQL
+33,Excel
+34,Excel
+34,Microsoft Office
+34,SSMS
+35,Power BI
+35,SQL
+35,MS Access
+36,Excel
+37,Excel
+38,Data Modeling
+38,Excel
+38,Power BI
+38,Tableau
+39,Data Modeling
+39,Excel
+39,Python
+39,Tableau
+39,Power BI
+40,SQL
+40,Python
+40,Tableau
+40,Data Modeling
+40,Data Warehousing
+41,SQL
+41,Excel
+41,Power BI
+41,Tableau
+41,R
+42,SQL
+42,Excel
+42,Python
+42,R
+42,Tableau
+42,Power BI
+43,Excel
+43,Power BI
+43,Tableau
+43,SQL
+44,SQL
+44,Power BI
+44,Tableau
+44,Excel
+45,SQL
+45,Python
+45,R
+45,Data Modeling
+45,Data Warehousing
+45,Statistical Analysis
+46,SQL
+46,Relational Database
+47,SQL
+47,Agile
+47,Microsoft Office
+47,Excel
+48,Excel
+48,Visualizations
+48,Tableau
+49,SQL
+49,SSIS
+49,SSRS
+49,Power BI
+50,SQL
+50,Excel
+50,Power BI
+50,Tableau
+50,Python
+50,R
+51,Data Visualizaitons
+51,SQL
+51,Data Modeling
+51,Power BI
+51,DAX
+52,SQL
+52,Python
+52,SSRS
+53,SQL
+53,SSIS
+53,SSRS
+54,Power Query
+54,Excel
+54,Python
+54,Reporting
+54,Power BI
+54,Tableau
+54,Data Visualizaitons
+54,Dashboard tools
+55,SQL
+55,Visualizations
+55,Documentation
+55,Tableau
+55,SSRS
+55,SSMS
+55,Snowflake
+56,Excel
+56,Microsoft Office
+57,Excel
+57,Power BI
+57,Python
+57,VBA
+58,Microsoft Office
+58,Excel
+58,Documentation
+58,Trello
+58,Asana
+58,SharePoint
+59,Alteryx
+59,Dataiku
+59,Excel
+59,Microsoft Office
+59,Tableau
+59,SPM Tool
+60,Database Principles
+60,STATA
+60,SPSS
+60,R
+60,SQL
+60,Excel
+61,Data Manipulation
+61,Excel
+61,STATA
+61,SPSS
+61,R
+61,SQL
+62,SQL
+62,Excel
+62,Azure
+62,Snowflake
+63,SQL
+63,Power Query
+63,Power BI
+63,DAX
+63,Microsoft Fabric
+63,Git
+64,SQL
+64,Python
+64,Tableau
+64,AWS
+64,Data Modeling
+64,Data Warehousing
+64,Git
+65,SQL
+65,Tableau
+65,Anaplan
+65,Python
+65,R
+65,Excel
+65,Microsoft Office
+66,SQL
+66,Jira
+66,Excel
+66,SSRS
+66,PBIRS
+66,Power BI
+67,Excel
+67,VBA
+67,SQL
+68,SQL
+68,Excel
+68,Microsoft Office
+69,AI
+69,Excel
+69,Python
+69,SQL
+69,Power BI
+70,Alteryx
+70,Google Cloud Platform
+70,SQL
+70,Tableau
+70,Power BI
+70,Google Analytics
+70,Adobe Analytics
+71,SQL
+71,Relational Database
+71,Microsoft Office
+71,Jira
+71,Confluence
+72,SQL
+72,Python
+72,R
+72,Tableau
+72,Power BI
+72,Google Analytics
+73,SQL
+73,Relational Database
+73,Data Modeling
+73,Power BI
+73,Tableau
+73,Python
+73,R
+74,SQL
+74,Visual Studios
+74,Azure
+74,SSAS
+74,SSRS
+74,SSIS
+74,DAX
+74,Data Visualizaitons
+75,SQL
+75,Python
+76,SQL
+76,Python
+76,R
+76,Tableau
+77,Pandas
+77,Python
+77,REST/JSON
+77,Power BI
+77,Excel
+77,Microsoft Office
+77,Visual Studios
+77,BitBucket
+78,Excel
+78,Microsoft Office
+78,SQL
+78,Python
+78,R
+78,Tableau
+78,Power BI
+79,SQL
+79,Tableau
+79,Python
+79,R
+79,Data Analysis
+79,Power BI
+80,R
+80,Microsoft Office
+80,SQL
+80,Python
+80,Power BI
+81,SQL
+81,Python
+81,Documentation
+82,Python
+82,NumPy
+82,PyTorch
+83,Power BI
+83,Tableau
+83,SQL
+83,Data Validation
+83,Reconciliations
+83,Reporting
+83,Excel
+84,Excel
+84,Reporting
+84,ServiceNow
+85,Excel
+85,Oracle
+85,ServiceNow
+86,Power BI
+86,SAP BusinessObjects
+86,Jira
+87,SQL
+87,Data Visualizaitons
+88,Excel
+88,Reporting
+89,SQL
+90,Power BI
+90,Tableau
+90,Oracle
+91,Power BI
+91,Excel
+91,Microsoft Office
+92,SQL
+92,Python
+92,R
+92,Tableau
+92,Data Warehousing
+92,Agile
+92,GitHub
+92,Snowflake
+92,Reporting
+93,SPSS
+93,R
+93,Python
+93,SQL
+93,Microsoft Office
+93,Excel
+94,Excel
+94,SQL
+94,R
+94,Tableau
+94,Power BI
+94,Data Warehousing
+94,Microsoft Office
+95,HTML
+95,Google Analytics
+95,Excel
+96,Google Analytics
+96,SQL
+96,Power BI
+96,BigQuery
+97,SQL
+97,Microsoft Office
+97,VBA
+97,Power BI
+98,Microsoft Office
+98,Power BI
+98,SAP BusinessObjects
+98,SQL
+99,Excel
+99,Database Principles
+99,SalesForce
+99,R
+99,SQL
+99,Tableau
+100,Data Warehousing
+100,SQL
+100,Data Visualizaitons

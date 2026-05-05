@@ -1,0 +1,101 @@
+﻿job_id,job_title,company,location,work_type,salary_min,salary_max,experience_required,industry,date_posted
+1,Business Intelligence Analyst 2,The Standard,"Portland, OR",Remote,66000,111750,2 years,HR Benefits & Insurance,4/10/2026
+2,Data Quality Analyst,ServiceTitan,"Glendale, CA",Remote,65800,88100,,Home & Commercial Trades Software,3/17/2026
+3,Business Intelligence Analyst,Management Solutions LLC,"Knoxville, TN",Hybrid,,,0-3 years,Federal Government Defense & Energy Sectors,
+4,Data Solutions Specialist,ICF,"Reston, VA",Remote,64000,74000,0-2 years,Disaster Management  Division at Global Advisory & Technology Services,
+5,Data Analyst,Trava Health,"Houston, TX",Remote,65000,90000,2 years,Healthcare,4/12/2026
+6,Billing Transformation Data Analyst,Segra,"Knoxville, TN",Hybrid,47670,59535,2 years,"Telecommunications, Internet Services, Finance",3/10/2026
+7,Data Analyst,Majestic Mold and Tool,"Phoenix, NY",Remote,60000,100000,2 years,Manufactoring,4/11/2026
+8,Business Analyst,Majestic Mold and Tool,"Phoenix, NY",Remote,55000,95000,2 years,Manufactoring,4/11/2026
+9,Business Analyst  1,Cisco,"Atlanta, GA",Remote,60000,90000,0-2 years,Internet Services,
+10,Data Analyst,Arcadia,"Boston, MA",Remote,70000,90000,1-2 years,Healthcare IT Management Software,3/30/2026
+11,IT Data Analyst,Milo's Tea Company,,Remote,,,2-3 years,Refreshments,4/9/2026
+12,Business Intelligence Analyst 1 - Tableau/Excel/Salesfroce,Unum,"Chattanooga, TN",Onsite,60500,123400,2-4 years,Employee Benefits Insurance,3/10/2026
+13,Business Intelligence Analyst I - SQL (SSMS)/Adv Excel,Unum,"Chattanooga, TN",Onsite,60500,123400,2-4 years,Employee Benefits Insurance,3/10/2026
+14,Business Intelligence Analyst 2,HealthVine - Cincinnati Childrens Hospital,"Cincinnati, OH",Remote,74297,94744,2-4 years,Healthcare Data - Hospital,4/7/2026
+15,Analyst 1,TBR - College System of TN,"Knoxville, TN",Onsite,53920,67010,2 years,College Software System - Pelissippi,
+16,Associate Data Analyst,Greenlight,"Atlanta, GA",Remote,65000,80000,0-2 years,Financial Technology,
+17,Data Analytics Specialist,Westinghouse Electric Co,"Cranberry Township, PA",Remote,58400,73000,0-2 years,Energy Solutions,
+18,Pricing Analyst 1 (Hospital CDM & Pricing),Boston Childrens Hospital,"Boston, MA",Remote,55369,88576,0-2 years,Healthcare,
+19,Data Quality Analyst (Support),UST ,"San Jose, CA",Remote,,,0-3 years,IT Services & Consulation,
+20,Data Analyst,Bayview Asset Management,"Coral Gables, FL",Remote,,,0-1 years,Financial Technology - Asset Management,4/7/2026
+21,Junior Data Analyst,DigitalTransGlobal,,Remote,67000,72000,0-2 years,Healthcare Systems,
+22,Junior Business Analyst,Weboptimix,,Remote,68000,75000,0-2 years,Healthcare Systems,
+23,Junior Business Data Analyst,ALCglobalSoftware,,Remote,68000,77000,0-2 years,Financial Services,
+24,Junior Business Analyst,Microflexinfra,,Remote,70000,77000,0-2 years,,
+25,Data Analyst,Construction Labor Research Council ,"Knoxville, TN",Onsite,60000,85000,1-5 years,Construction Data & Research,
+26,Applications Analyst,Prisma Health - Blount Memorial,"Maryville, TN",Onsite,,,1-5 years,Healthcare Systems,
+27,Entry-level Data / Business Analyst,Prism Data Consulting - National Software Management,"Swissvale, PA",Remote,,,0-1 years,Software Development,
+28,Data Analyst,Stripe,,Remote,146900,220300,3+ years,FinTech,
+29,Business Analytics Analyst,Privia Health,,Remote,63000,70000,1+ years,Medical Economics,
+30,Business Intelligence Analyst,natera,,Remote,,,1-3 years,Healthcare Systems,
+31,Business Optimization Analyst,Versant Health,"Troy, NY",Remote,,,,CareSource,3/18/2026
+32,Business Analyst,KUB,"Knoxville, TN",Onsite,51900,94300,1-3 years,Utilities,4/7/2026
+33,Entry Level Business Analyst,AMGTech Solutions,,Remote,65000,75000,,Healthcare Systems,
+34,Client Support Analyst 1,Solarity,"St Louis, MO",Remote,,,1+ years,,
+35,Finance Data Analyst,Ryder,"Richmond, VA",Remote,58000,65000,0-1 years,Logistics,
+36,Data Analyst,Robert Half,"Minneapolis, MN",Remote,52000,58000,,,
+37,Business Operations Analyst,Robert Half,"Seattle, WA",Remote,80000,110000,,,
+38,Data Visualization Specialist,Robert Half,"Cincinnati, OH",Onsite,38000,44000,,,
+39,Data Warehouse Analyst,Robert Half,"Princeton, NJ",Onsite,70000,80000,2 years,Logistics,
+40,Data Analyst,SSV Technologies Inc,,Remote,,,1-2 years,,
+41,Junior Data/Business Analyst,Pioneer Consulting Services LLC,,Remote,,,0-2 years,,
+42,Data Analyst,Futuermindz llc,NJ,Remote,60000,80000,0-3 years,IT Services & Consulation,4/2/2026
+43,Junior Business Data Analyst,Dhalite Inc,,Remote,63000,75000,0-3 years,,4/1/2026
+44,Junior Data Analyst,Dhalite Inc,,Remote,70000,80000,0-1 years,,4/1/2026
+45,Data Analyst 2 Healthcare Analyst,Centene Corporation,,Remote,56200,101000,1-3 years,Healthcare Systems,4/10/2026
+46,Junior Business Analyst,Ellianse LLC,,Remote,,,0-4 years,,
+47,Entry Level Business Analyst,Ellianse LLC,,Remote,50000,60000,0-1 years,,
+48,Analyst,Truveris,,Remote,65000,75000,1-5 years,,
+49,Database Analyst,Accenture,"Orlando, FL",Onsite,,,,Local Government,
+50,Data Analyst,Stealth (Jack),,Remote,,,2+ years,,
+51,Junior Business Intelligence Analyst,Medpace,"Cincinnati, OH",Onsite,,,0-3 years,MedTech,
+52,Healthcare SQL/Python Data Analst,Robert Half,"Sarasota, FL",Onsite,70000,90000,,,4/14/2026
+53,Technical Jr Data Analyst,Apex Systems,NC,Remote,,,2+ years,Healthcare Systems,3/17/2026
+54,Business Analyst,Gainwell,"Roseville, CA",Hybrid,59500,75000,3+,,
+55,Business Intelligence Data Analyst,ReMax,,Remote,75000,90000,0-2 years,,
+56,Membership Operations Analyst,CVS,Arizona,Remote,43888,85068,1+ years,Pharmacy ,
+57,FP&A Analyst,CVS,Tennessee,Remote,43888,102081,1-2 years,Finance,
+58,Operations Support Analyst,CVS,Tennessee,Remote,43888,93579,,Business Operations,
+59,Sales Comp Admin Analyst,CVS,,Remote,43888,93579,1 year,Business Operations,
+60,Client Financial Optimization Analyst,CVS,Illinois,Remote,43888,93574,1+ years,,
+61,Analytics Services Analyst,CVS,,Remote,43888,93574,1+ years,Business Operations,
+62,Associate Data Support Analyst,Government Employees Health Association,"Lee's Summit, MO",Remote,67263,85092,1-2 years,HR Benefits & Insurance,4/14/2026
+63,Junior Analytics Engineer,Mayne Pharma,,Remote,,,1-3 years,Commercial Operations,
+64,Data Analyst,Kellton,"Arlington, VA",Remote,,,1-2 years,,
+65,Data Analyst  Clinical Reporting,DaVita Kidney Care,"Denver, CO",Onsite,57784,85000,1-2 years,Healthcare Systems,4/14/2026
+66,Business Intelligence Analyst 1,Avalon Administrative Services LLC,"Tampa, FL",Remote,,,,Healthcare Systems,
+67,Reporting Analyst,T-Mobile,"Birmingham, MI",Onsite,,,1-2 years,Mobile Electronics,
+68,Associate Business Analyst,Visa,"Austin, TX",Hybrid,77000,,,FinTech,
+69,AI Finance Analyst (Entry Level),Community First Medical Center,"Chicago, IL",Onsite,,,,Healthcare Systems,
+70,Marketing Analytics Analyst,Invesco,"New York, NY",Hybrid,70000,76000,1-2 years,Marketing,
+71,Support Business Analyst,Analytics Partners,"Denver, CO",Hybrid,,,0-2 years,,
+72,Business Intellgience Analyst,ProShares,"Bethesda, MD",Hybrid,60000,75000,1+ years,,
+73,Entry Level Data Analyst,Ivanti,"South Jordan, UT",Onsite,,,0-1 years,,
+74,Business Intelligence Analyst,VASCOR Ltd,"Farmington Hills, MI",Onsite,,,1-3 years,,
+75,Systems Analyst,Abe's Vegan Muffins,"West Nyack, NY",Onsite,75000,90000,1-3 years,,
+76,Analytics Analyst, Toyota,"Plano, TX",Hybrid,,,1+ years,,3/24/2026
+77,Operations Analyst,BayWa r.e. ,"Carlsbad, CA",Remote,,,0-3 years,,
+78,Digital Analyst,TelevisaUnivision,"Denver, CO",Onsite,62500,67000,0-3 years,,
+79,Data Analyst,CAVA,"Washington, DC",Onsite,,,2-5 years,Food Industry,
+80,Product Mangement Analyst,SageSure,"Cincinnati, OH",Onsite,,,1-2 years,Insurance,
+81,Junior Data Analyst,Netsynk,"McLean, VA",Onsite,72800,83200,,FinTech,
+82,Junior Data Analyst,Market Street Talent,"Portland, ME",Hybrid,79040,89440,0-3 years,,
+83,Data Analyst,AaraTechnologies Inc,"Wyoming, IL",Hybrid,60000,65000,1-2 years,Airlines,4/15/2026
+84,Data Specalist ,TekSystems,"Waukegan, IL",Onsite,39520,43680,1 year,IT Services & Consulation,
+85,Data Specalist ,Kforce Technologies,"Daytona Beach, FL",Onsite,41600,47840,,IT Services & Consulation,
+86,Business Intelligence Analyst,Optum,,Remote,60320,68640,1-2 years,State Government,
+87,Data Analyst,InterEx Group,,Remote,,,1-2 years,,
+88,Junior Analyst,Princeton10,"New York, NY",Remote,55000,70000,0-2 years,Healthcare Systems,
+89,Data Analyst,BenefitScape,"Natick, MA",Onsite,60000,75000,0-2 years,HR Benefits & Insurance,
+90,DASH Research Business Analyst,UT Systems,"Knoxville, TN",Hybrid,60000,70000,0-1 years,Research,
+91,Program Analyst,UT Systems,"Nashville, TN",Hybrid,,,,,
+92,Performance Insights Analyst,Judi Health,,Remote,75000,85000,1-2 years,Healthcare Systems,4/15/2026
+93,Data Analyst,Inizio Engage,,Remote,,,1+ years,Healthcare Systems,
+94,Marketing Data Analyst,National University,,Remote,55869,75427,2 years,,
+95,Junior Business Data Analyst,webfx.com,"Harrisburg, PA",Onsite,50000,53000,0-2 years,,
+96,Associate eCommerce Data Analyst,Uline,"Pleasant Prairie, WI",Onsite,,,0-2 years,eCommerce,
+97,Business Systems Analyst,Uline,"Pleasant Prairie, WI",Onsite,,,1+ years,eCommerce,
+98,eCommerce Business Intelligence Analyst,Nestle Purina,"St Louis, MO",Onsite,70000,92000,1+ years,Dog Food,
+99,Campaign Targeting & Pricing Analyst,Patient Point,"Cincinnati, OH",Hybrid,,,1+ years,Healthcare Systems,
+100,Warehouse Mgmt Systems Analyst,DHL Supply Chain,"Chattanooga, TN",,70000,115000,1+ years,Supply Chain & Logistics,4/15/2026
