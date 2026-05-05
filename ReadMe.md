@@ -93,7 +93,7 @@ Wrote 11 SQL queries using:
 
 ![Top 10 Most In-Demand Skills](visuals/Q1_TopSkills.png)
 
-💻 **[View SQL Query](sql/Query1.sql)**
+💻 **[View SQL Query](sql/Business_Queries/Query1.sql)**
 
 ---
 
